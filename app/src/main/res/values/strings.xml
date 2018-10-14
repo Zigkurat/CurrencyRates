@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SFLAssignment</string>
+    <string name="title_activity_main">Rates</string>
+
+    <string name="distance">Distance</string>
+    <string name="currency">Currency</string>
+    <string name="buying">Buying</string>
+    <string name="selling">Selling</string>
+
+    <string name="cash">Cash</string>
+    <string name="cashless">Cashless</string>
+
+    <string name="all_branches">All Branches</string>
+    <string name="contact_number">Contact number</string>
+    <string name="working_days">Working days</string>
+    <string name="view_on_map">View on map</string>
+
+    <string-array name="week_days">
+        <item>Mon.</item>
+        <item>Tue.</item>
+        <item>Wed.</item>
+        <item>Thu.</item>
+        <item>Fri.</item>
+        <item>Sat.</item>
+        <item>Sun.</item>
+    </string-array>
+</resources>
